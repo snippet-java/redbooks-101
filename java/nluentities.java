@@ -1,8 +1,3 @@
-/**
- * Created by khouly on 29-04-2017.
- */
-
-
 import com.ibm.watson.developer_cloud.natural_language_understanding.v1.NaturalLanguageUnderstanding;
 import com.ibm.watson.developer_cloud.natural_language_understanding.v1.model.*;
 
